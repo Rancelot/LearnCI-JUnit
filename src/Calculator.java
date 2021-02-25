@@ -5,7 +5,7 @@ public class Calculator {
 	public Calculator() {
 	}
 	/**
-	 * Receives two double values and performs an action. If a is less than b, a*b, otherwise, a/b will be returned.
+	 * Receives two double values and performs an action. If a is less than b, a*b, otherwise, a/b will be returned.testing
 	 * @param a
 	 * @param b
 	 * @return the result of the action performed on and b.
